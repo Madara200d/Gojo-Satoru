@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
-global.premium = ['96891103640']
-global.ownernomer = '96891103640'
-global.ownername = '( الـمـطـور )'
-global.botname = '( بـوت غـوجـو )'
-global.footer = '( غـوجـو )'
+global.owner = ['+212 717-482377']
+global.premium = ['+212 717-482377']
+global.ownernomer = '+212 717-482377'
+global.ownername = '( الـمـطـور مادارا )'
+global.botname = '( بـوت مادارا)'
+global.footer = '( مادارا )'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
@@ -42,7 +42,7 @@ global.mess = {
     group: '*「 هـذا الامـر فـي الـمـجـمـوعـات فـقـط 」◣*',
     private: '*「 هـذا الامـر فـي الـخـاص فـقـط 」◣*',
     bot: '*「 هـذا الامـر مـخـصـص لـ الـبـوت 」◣*',
-    wait: '*「 انـتـظـر مـن فـضـلـك 」◣*',
+    wait: '*「 انـتـظـر مـن فـضـلـك🌹 」◣*',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 1000 Hours',
 }
